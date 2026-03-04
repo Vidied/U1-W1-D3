@@ -1,0 +1,38 @@
+body {
+    font-family: "Georgia", "Times New Roman", serif;
+    text-align: center;
+    margin: 0 auto;
+}
+
+hr {
+   background-color: yellow;
+}
+
+main {
+    width: 50%;
+    margin: 0 auto;
+}
+
+video {
+    width: 100%;
+    border-radius: 15px;
+}
+
+#logo {
+    width: 15%;
+    margin-bottom: 1em;
+}
+
+#logo-text {
+    color: rgba(0 64 64/ 0.9);
+    margin-top: 1.5em;
+}
+
+#video-section {
+    margin-top: 6em;
+}
+
+#video-section p {
+    text-align: left;
+}
+
