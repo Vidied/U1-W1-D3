@@ -11,9 +11,13 @@ main {
 }
 
 hr {
-   background-color: yellow;
-   height: 1px;
-   border: none;
+    background-color: yellow;
+    height: 1px;
+    border: none;
+}
+
+h2 {
+   font-weight: 500;
 }
 
 video {
@@ -77,11 +81,6 @@ video {
     border: none;
 }
 
-#numero {
-    font-weight: 400;
-    margin-left: -0.7em;
-}
-
 .metodo div {
     padding-left: 3em;
 }
@@ -98,6 +97,3 @@ footer p {
 footer a{
     color: #006666;
 }
- h2 {
-    font-weight: 500;
- }
