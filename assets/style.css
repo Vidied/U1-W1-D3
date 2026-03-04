@@ -19,10 +19,12 @@ hr {
 video {
     width: 100%;
     border-radius: 15px;
+    margin-bottom: 1.5em;
 }
 
 #logo {
     width: 30%;
+    max-width: 300px;
     margin-bottom: 1em;
 }
 
@@ -42,6 +44,7 @@ video {
 .source {
     text-align: center;
     color: grey;
+    display: inline;
 }
 
 .source a {
