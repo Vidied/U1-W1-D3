@@ -4,15 +4,16 @@ body {
     margin: 0 auto;
 }
 
+main {
+    width: 50%;
+    text-align: center;
+    margin: 0 auto;
+}
+
 hr {
    background-color: yellow;
    height: 1px;
    border: none;
-}
-
-main {
-    width: 50%;
-    margin: 0 auto;
 }
 
 video {
@@ -21,7 +22,7 @@ video {
 }
 
 #logo {
-    width: 15%;
+    width: 30%;
     margin-bottom: 1em;
 }
 
@@ -32,6 +33,10 @@ video {
 
 #video-section {
     margin-top: 6em;
+}
+
+#video-section p{
+    text-align: left;
 }
 
 .source {
@@ -58,14 +63,35 @@ video {
     color: #006666;
 }
 
-.ingredients {
+#recipe-section {
     margin-top: 3em;
     text-align: left;
 }
 
-.ingredients hr{
+#recipe-section hr{
     background-color: lightblue;
-       height: 1px;
-   border: none;
+    height: 1px;
+    border: none;
 }
 
+#numero {
+    font-weight: 400;
+    margin-left: -0.7em;
+}
+
+.metodo div {
+    padding-left: 3em;
+}
+
+footer {
+    margin: auto;
+    width: 50%;
+}
+
+footer p {
+    text-align: left;
+}
+
+footer a{
+    color: #006666;
+}
