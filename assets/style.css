@@ -1,7 +1,6 @@
 body {
     font-family: "Georgia", "Times New Roman", serif;
     text-align: center;
-    margin: 0 auto;
 }
 
 main {
@@ -96,4 +95,8 @@ footer p {
 
 footer a{
     color: #006666;
+}
+
+ul li{
+    margin: 1em;
 }
