@@ -1,102 +1,102 @@
 body {
-    font-family: "Georgia", "Times New Roman", serif;
-    text-align: center;
+  font-family: "Georgia", "Times New Roman", serif;
+  text-align: center;
 }
 
 main {
-    width: 50%;
-    text-align: center;
-    margin: 0 auto;
+  width: 50%;
+  text-align: center;
+  margin: 0 auto;
 }
 
 hr {
-    background-color: yellow;
-    height: 1px;
-    border: none;
+  background-color: yellow;
+  height: 1px;
+  border: none;
 }
 
 h2 {
-   font-weight: 500;
+  font-weight: 500;
 }
 
 video {
-    width: 100%;
-    border-radius: 15px;
-    margin-bottom: 1.5em;
+  width: 100%;
+  border-radius: 15px;
+  margin-bottom: 1.5em;
 }
 
 #logo {
-    width: 30%;
-    max-width: 300px;
-    margin-bottom: 1em;
+  width: 30%;
+  max-width: 300px;
+  margin-bottom: 1em;
 }
 
 #logo-text {
-    color: rgba(0 64 64/ 0.9);
-    margin-top: 1.5em;
+  color: rgba(0 64 64/ 0.9);
+  margin-top: 1.5em;
 }
 
 #video-section {
-    margin-top: 6em;
+  margin-top: 6em;
 }
 
-#video-section p{
-    text-align: left;
+#video-section p {
+  text-align: left;
 }
 
 .source {
-    text-align: center;
-    color: grey;
-    display: inline;
+  text-align: center;
+  color: grey;
+  display: inline;
 }
 
 .source a {
-    color: grey;
+  color: grey;
 }
 
 .feature-box {
-    text-align: left;
-    padding-left: 1.5em;
-    margin: 2.5em 0;
-    border-left: 1px solid yellow;
+  text-align: left;
+  padding-left: 1.5em;
+  margin: 2.5em 0;
+  border-left: 1px solid yellow;
 }
 
 .feature-box p {
-    color: #c04000;
+  color: #c04000;
 }
 
-.feature-box a p{
-    color: #006666;
+.feature-box a p {
+  color: #006666;
 }
 
 #recipe-section {
-    margin-top: 3em;
-    text-align: left;
+  margin-top: 3em;
+  text-align: left;
 }
 
-#recipe-section hr{
-    background-color: lightblue;
-    height: 1px;
-    border: none;
+#recipe-section hr {
+  background-color: lightblue;
+  height: 1px;
+  border: none;
 }
 
 .metodo div {
-    padding-left: 3em;
+  padding-left: 3em;
 }
 
 footer {
-    margin: auto;
-    width: 50%;
+  margin: auto;
+  width: 50%;
 }
 
 footer p {
-    text-align: left;
+  text-align: left;
 }
 
-footer a{
-    color: #006666;
+footer a {
+  color: #006666;
 }
 
-ul li{
-    margin: 1em;
+ul li {
+  margin: 1em;
 }
